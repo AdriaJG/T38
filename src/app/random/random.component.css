@@ -1,0 +1,14 @@
+.card{
+  margin: 1%;
+  width: auto;
+  display: inline-flex;
+}
+
+a, .nombre{
+  width: 100%;
+}
+
+.cuerpo{
+  margin-left: 10%;
+  margin-right: 10%;
+}
